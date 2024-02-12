@@ -21,9 +21,9 @@ Welcome to Guess the Word Game! This is a simple web-based game where players tr
 To run the game locally:
 
 1. Clone this repository to your local machine.
-2.Open the index.html file in a web browser.
+2. Open the index.html file in a web browser.
 3. File Structure
-index.html: HTML file for the game interface.
-styles.css: CSS file for styling the game.
-script.js: JavaScript file for the game logic.
+- index.html: HTML file for the game interface.
+- styles.css: CSS file for styling the game.
+- script.js: JavaScript file for the game logic.
 
