@@ -3,10 +3,10 @@
 Welcome to Guess the Word Game! This is a simple web-based game where players try to guess a hidden word by selecting letters from an alphabet.
 
 # Technologies Used:
-.HTML
-.CSS
-.JavaScript
-.jQuery
+1. HTML
+2. CSS
+3. JavaScript
+4. jQuery
 
 # Gameplay
 1. When the game starts, a random word is selected from a predefined list.
@@ -27,5 +27,3 @@ index.html: HTML file for the game interface.
 styles.css: CSS file for styling the game.
 script.js: JavaScript file for the game logic.
 
-# Credits
-This game was created by [Dheeraj kumar] as a fun project to practice HTML, CSS, JavaScript, and jQuery.
